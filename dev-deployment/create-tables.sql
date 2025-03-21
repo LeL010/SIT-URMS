@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS `Addresses` (
   `city` VARCHAR(100) NOT NULL,
   `state` VARCHAR(100) DEFAULT NULL,
   `postal_code` VARCHAR(20) NOT NULL,
-  `country` VARCHAR(100) DEFAULT 'USA',       -- customize as you see fit
+  `country` VARCHAR(100) DEFAULT 'SINGAPORE',       -- customize as you see fit
   PRIMARY KEY (`address_id`)
 ) ENGINE = InnoDB DEFAULT CHARSET = utf8mb4;
 

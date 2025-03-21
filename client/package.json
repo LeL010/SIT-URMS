@@ -23,6 +23,7 @@
     "react-dom": "^19.0.0",
     "react-router-dom": "^6.30.0",
     "react-toastify": "^11.0.5",
+    "use-places-autocomplete": "^4.0.1",
     "yup": "^1.6.1"
   },
   "devDependencies": {
